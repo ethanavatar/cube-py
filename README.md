@@ -29,3 +29,6 @@ print(checkers.to_printable())
 ```
 
 **NOTE:** `Cube3x3.to_printable()` uses command line unicode styling for the colors, otherwise its just a bunch of white squares
+
+The above example will print:
+![](/static/demo_output.png)
