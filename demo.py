@@ -1,4 +1,3 @@
-# TODO: make installable package
 from cube import *
 
 # create a new, solved cube
